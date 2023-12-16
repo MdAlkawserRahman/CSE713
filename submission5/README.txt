@@ -1,5 +1,5 @@
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
-https://www.overleaf.com/project/....
+https://www.overleaf.com/5184928378pnjtmzwnsrrj#715b19
 
 Unlisted YouTube video:
 http://youtube....
@@ -8,10 +8,10 @@ Conference submitted paper / paper submission / login Link:
 https://easy....
 
 Paper title:
-Partially automated exam answer script checking for Intro to Marketing
+A Sentiment Analysis of Thread App Reviews and Ratings Enhanced With Explainable AI
 
 Paper presentation (anyone can view without login):
-http://slides.google.com/
+https://docs.google.com/presentation/d/1IRQsXgDIqSQ6Dz2dDxFUP-bmYYgvvdbN8oe-4xf04VE/edit#slide=id.p
 
 Paper submission date (to workshop/conference):
 25 October 1999
