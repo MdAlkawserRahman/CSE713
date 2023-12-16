@@ -11,7 +11,7 @@ Paper title:
 A Sentiment Analysis of Thread App Reviews and Ratings Enhanced With Explainable AI
 
 Paper presentation (anyone can view without login):
-http://slides.google.com/
+https://docs.google.com/presentation/d/1JUXYpPI0i8DagOQR4f3fodCPkhv6XQL3I5TgRC_x7ZU/edit#slide=id.p
 
 Paper submission date (to workshop/conference):
 25 October 1999
