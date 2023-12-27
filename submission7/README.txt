@@ -1,5 +1,5 @@
 Overleaf link with edit access to course instructor gmail and then email "anybody can edit" link to ST, RA.
-
+https://www.overleaf.com/7424916459mzyyjgyfqnfd#8d7e49
 
 Unlisted YouTube video:
 http://youtube....
@@ -8,7 +8,7 @@ Conference submitted paper / paper submission / login Link:
 https://easy....
 
 Paper title:
-
+Emo-Pulse: Real-time Emotion Recognition with LSTM for Pattern Analysis.
 
 Paper presentation (anyone can view without login):
 
